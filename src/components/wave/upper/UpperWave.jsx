@@ -89,7 +89,7 @@ export default function UpperWave() {
             y2="-47.2533"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stopColor="#FA7FFD" />
+            <stop stopColor="#FA7FFD"  />
             <stop offset="1" stopColor="#E33131" />
           </linearGradient>
           <clipPath id="clip0_1_8">
