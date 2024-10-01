@@ -1,0 +1,24 @@
+.customLower {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  line-height: 0;
+  z-index: 1;
+  width: 1440px;
+  height: 603.5px;
+  top: 296.5px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.customLower svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.customLower .shape-fill {
+  fill: #ffffff;
+}

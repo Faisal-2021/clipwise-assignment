@@ -1,0 +1,23 @@
+.customWB {
+    position: absolute;
+    top: 2180;
+    left: 80;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    z-index:-10;
+    width: fit-content;
+}
+
+.customWB svg {
+    fill: white;
+    position: relative;
+    display: block;
+    width: calc(203% + 1.3px);
+    height: 500px;
+    z-index: -10;
+}
+
+.customWB .shape-fill {
+    fill: #FFFFFF;
+}
