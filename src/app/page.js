@@ -138,7 +138,7 @@ export default function Home() {
 
         {/* Section 3 end */}
       </div>
-      <div className=" h-[269px] bg-[#0A294DCC]/80 "></div>
+      <div className=" -mt-12 h-[269px] bg-[#0A294DCC]/80 "></div>
     </main>
   );
 }
