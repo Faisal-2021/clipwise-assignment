@@ -13,7 +13,7 @@ export default function UpperWave() {
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clip-path="url(#clip0_1_8)">
+        <g clipPath="url(#clip0_1_8)">
           <rect
             x="1440"
             y="900"
@@ -31,7 +31,7 @@ export default function UpperWave() {
             fill="url(#paint2_linear_1_8)"
           />
           <g filter="url(#filter0_b_1_8)">
-            <rect width="1440" height="900" fill="white" fill-opacity="0.4" />
+            <rect width="1440" height="900" fill="white" fillOpacity="0.4" />
           </g>
         </g>
         <defs>
@@ -42,7 +42,7 @@ export default function UpperWave() {
             width="1940"
             height="1400"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
             <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="125" />
